@@ -15,13 +15,13 @@ mainpitch:
 
 
     Passion, experince and academic Masters in Software Systems is an added
-    feater to the cap.
+    feather to the cap.
 description: >-
   Extensive knowledge of programming in different programming languages not
   limited to C/C++. HandsOn experince using different ARM processors on
   different SOC's like cypress PSOC4 & BCM58 and nordic nrf52. With the
-  inadverent trend and intrests of the community on ESP32 has literaly dragged
-  attention with its low costs.
+  inadvertent trend and intrests of the community on expressif ESP32 has
+  literaly dragged attention with its low costs.
 intro:
   blurbs:
     - image: /img/coffee.png
