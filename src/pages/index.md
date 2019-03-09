@@ -3,9 +3,7 @@ templateKey: index-page
 title: Programming with passion
 image: /img/home-jumbotron.jpg
 heading: VENKATESH BACHU
-subheading: >-
-  Programming with passion. Encourage programming with strong dose of
-  programming principles
+subheading: Encourage programming with strong dose of programming principles
 mainpitch:
   title: What makes me different..??
   description: >-
@@ -19,10 +17,11 @@ mainpitch:
     Passion, experince and academic Masters in Software Systems is an added
     feater to the cap.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Extensive knowledge of programming in different programming languages not
+  limited to C/C++. HandsOn experince using different ARM processors on
+  different SOC's like cypress PSOC4 & BCM58 and nordic nrf52. With the
+  inadverent trend and intrests of the community on ESP32 has literaly dragged
+  attention with its low costs.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -52,7 +51,7 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: How i bring value in the team
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
