@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Programming with passion
-image: /img/home-jumbotron.jpg
+image: /img/img_0580.jpg
 heading: VENKATESH BACHU
 subheading: Encourage programming with strong dose of programming principles
 mainpitch:
